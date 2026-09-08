@@ -11,7 +11,7 @@
    ---------------------------------------------------------- */
 :root {
   --color-bg: #eee0cc;        /* page background */
-  --color-text: #222222;      /* main text color */
+  --color-text: #51411c;      /* main text color */
   --color-primary: #a07f39;   /* header, links, buttons */
   --color-primary-dark: #44711a; /* hover state for links/buttons */
   --color-accent: #89c008;    /* small highlights, e.g. active nav link */
